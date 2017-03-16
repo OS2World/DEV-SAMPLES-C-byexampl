@@ -1,0 +1,1 @@
+Container Ctrl Samp Spring '93 OS/2 Dev ...Source Code from the article: 'Programming the OS/2 Container Control: By Example' In the Spring 1993 Issue of the OS/2 Developer Magazine. Programmed from Peter Haggar (CIS ID: 71075, 2426) 
